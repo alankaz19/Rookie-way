@@ -1,3 +1,5 @@
+
+
 h1 {
     background-color: #e2e2e2;
     padding: 20px
@@ -5,12 +7,12 @@ h1 {
 
 
 body {
-  text-align: center;
+  text-align: center; 
   font-family: "Arial";
 }
 
 .main-image {
-    text-align: center;
+    padding: 0.1%;
     border: solid 5px gray;
     border-radius: 50%;
     width:400px;
