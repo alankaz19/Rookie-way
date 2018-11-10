@@ -1,0 +1,21 @@
+.box{
+    width: 250px;
+    height: 250px;
+    font-size: 100px;
+    text-align: center;
+    line-height: 250px;
+}
+
+.left{
+    background-color: rebeccapurple;
+}
+
+.middle{
+    background-color: teal;
+    margin:auto;
+}
+
+.right{
+    background-color: gray;
+    float: right;
+}
